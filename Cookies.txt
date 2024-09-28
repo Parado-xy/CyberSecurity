@@ -1,0 +1,5 @@
+When you visit a website, the website’s server creates a file called a cookie and stores the cookie on your browser. 
+A cookie is a data file containing information about your interaction with the website.
+Examples of this information include username, password, login state, and site preferences. 
+When you return to the website, your browser sends the cookie back to the server. 
+The server can personalize your experience with this information. For example, it can keep you logged in, restore your preferences, and even save items you had in an online shopping cart.
